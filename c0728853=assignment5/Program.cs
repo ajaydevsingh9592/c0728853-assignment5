@@ -82,7 +82,7 @@ namespace c0728853_assignment5
                     counter++;
                 }
                 file.Close();
-                Console.WriteLine("=======================================================================");
+                //Console.WriteLine("=======================================================================");
                 Console.WriteLine($"File has {counter} lines.");
                 Console.ReadLine();
             }
